@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Habits</string>
+    <string name="habit_name">Название привычки</string>
+    <string name="habit_description">Описание...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="habit_type">Тип привычки</string>
+    <string name="habit_type_bad">Плохая</string>
+    <string name="habit_type_good">Хорошая</string>
+    <string name="habit_type_neutral">Нейтральная</string>
+    <string name="habit_priority">Приоритет</string>
+    <string name="count_of_repeats">Количество повторений</string>
+    <string name="habit_periodicity">Периодичность</string>
+
+    <string-array name="habit_priority">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
 </resources>
